@@ -1,0 +1,348 @@
+body {
+    display: block;
+    font-family: Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    font-weight: 500;
+    background: #000;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-size: 100%;
+    line-height: 1;
+    
+}
+
+#tudo {
+    background: url(imagens/animation_lat.gif) fixed repeat-y 55px -10px, url(imagens/bg_line.png) fixed repeat-y 55px -10px;
+}
+
+#tudo {
+    min-width: 1200px;
+}
+.all::before {
+    content: "";
+    display: table;
+}
+.all::after {
+    clear: both;
+}
+
+.all::after {
+    content: "";
+    display: table;
+}
+a {
+    margin: 0;
+    text-decoration: none;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+li {
+    list-style: none;
+}
+.menu_lateral {
+    width: 320px;
+    float: left;
+    position: relative;
+}
+.menu_lateral h1 {
+    padding: 0px;
+    margin: 0px;
+    padding-top: 45px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.menu_lateral h2 {
+    margin: 0px;
+    text-align: center;
+    margin-bottom: 35px;
+}
+.menu_lateral .info {
+    background: url(https://www.swordart-onlineusa.com/aincrad/assets/img/common/dot.png);
+}
+.menu_lateral .info {
+    height: 320px;
+    position: relative;
+    box-sizing: border-box;
+    margin-bottom: 43px;
+}
+
+.menu_lateral .info .setavoltar {
+    height: 27px;
+    overflow: hidden;
+    position: absolute;
+    margin: 0;
+    top: 10px;
+    left: 20px;
+}
+
+
+nav ul {
+    list-style-type: none;
+}
+
+.menu_lateral .series {
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 20px;
+    padding-top: 45px;
+}
+
+.menu_lateral .series li {
+    height: 20px;
+    margin-bottom: 8px;
+}
+.menu_lateral .series li a {
+    display: block;
+    height: 100%;
+    width: 150px;
+}
+
+.menu_lateral .series .s8 a {
+    background: url(imagens/alicization.png);
+}
+
+.menu_lateral .series .s7 a {
+    background: url(https://www.swordart-onlineusa.com/assets/img/left_common/menu_vol/movie.png);
+}
+
+.menu_lateral .series .s6 a {
+    background: url(imagens/mothersrosaries.png);
+}
+
+.menu_lateral .series .s5 a {
+    background: url(https://www.swordart-onlineusa.com/assets/img/left_common/menu_vol/culibur.png);
+}
+
+.menu_lateral .series .s4 a {
+    background: url(https://www.swordart-onlineusa.com/assets/img/left_common/menu_vol/phantombullet.png);
+}
+
+.menu_lateral .series .s3 a {
+    background: url(https://www.swordart-onlineusa.com/assets/img/left_common/menu_vol/extraedition.png);
+}
+
+.menu_lateral .series .s2 a {
+    background: url(https://www.swordart-onlineusa.com/assets/img/left_common/menu_vol/fairydance.png);
+}
+
+.menu_lateral .series .s1 a {
+    background: url(https://www.swordart-onlineusa.com/assets/img/left_common/menu_vol/aincrad.png);
+}
+
+.menu_lateral .series .current a {
+    background-position: bottom;
+    cursor: default;
+}
+
+.menu_lateral .series li a:hover {
+    background-position: bottom;
+}
+
+nav ul {
+    list-style: none;
+}
+
+
+.menu_lateral .navegação {
+    margin: 0px;
+    padding: 0px;
+    margin-left: 204px;
+    padding-top: 20px;
+
+}
+
+.menu_lateral .navegação li {
+    height: 10px;
+    margin-bottom: 15px;
+}
+.menu_lateral .navegação li a {
+    display: block;
+    height: 100%;
+}
+.menu_lateral .navegação .top a {
+    width: 26px;
+    background: url(https://www.swordart-onlineusa.com/aincrad/assets/img/common/menu/top.png);
+}
+
+.menu_lateral .navegação .current a {
+    background-position: bottom;
+    cursor: default;
+}
+
+.menu_lateral .navegação .intro a {
+    background: url(https://www.swordart-onlineusa.com/aincrad/assets/img/common/menu/intro.png);
+    width: 100px;
+}
+
+.menu_lateral .navegação .character a {
+    background: url(https://www.swordart-onlineusa.com/aincrad/assets/img/common/menu/character.png);
+    width: 82px;
+}
+
+.menu_lateral .navegação .staff a {
+    background: url(https://www.swordart-onlineusa.com/aincrad/assets/img/common/menu/staffcast.png);
+    width: 85px;
+}
+
+.menu_lateral .navegação .story a {
+    background: url(https://www.swordart-onlineusa.com/aincrad/assets/img/common/menu/story.png);
+    width: 44px;
+}
+
+.menu_lateral .navegação a:hover {
+    background-position: bottom;
+}
+
+.menu_lateral .info .sns {
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    left: 20px;
+    bottom: 20px;
+    letter-spacing: -.4em;
+}
+.menu_lateral .info .sns li {
+    display: inline-block;
+    height: 13px;
+}
+.menu_lateral .info .sns li img{
+    vertical-align: top;
+    display: inline-block;
+    height: 13px;
+}
+
+.menu_lateral .info .sns li img {
+    vertical-align: top;
+}
+
+.menu_lateral .info .sns li a {
+    display: block;
+    background: no-repeat center top;
+    width: 100%;
+    height: 100%;
+}
+
+.menu_lateral .info .sns .tw {
+    background: url(https://www.swordart-onlineusa.com/assets/img/left_common/share/slash.png) no-repeat right center;
+    padding-right: 15px;
+    margin: 0 10px 0 15px;
+}
+.menu_lateral .info .sns .tw, .fb {
+    width: 13px;
+    height: 13px;
+} 
+
+.menu_lateral .info .sns .tw a {
+    background: url(https://www.swordart-onlineusa.com/aincrad/assets/img/common/menu/twitter.png);
+}
+
+.menu_lateral .info .sns .fb a {
+    background-image: url(https://www.swordart-onlineusa.com/aincrad/assets/img/common/menu/facebook.png);
+}
+
+.menu_lateral .series_bnr {
+    width: 320px;
+    position: relative;
+    height: 517px;
+    margin-bottom: 40px; 
+}
+
+
+.menu_lateral .series_bnr ul {
+    padding: 0px;
+    width: 320px;
+    height: 517px;
+}
+.menu_lateral .series_bnr li {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.menu_lateral .series_bnr li a {
+    display: block;
+    height: 51px;
+    width: 380px;
+    position: absolute;
+    transform: rotate(-17.5deg);
+    z-index: 10;
+    top: 0;
+    left: -25px;
+}
+
+
+.menu_lateral .series_bnr li.s8 a {
+    top: 47px;
+}
+
+.menu_lateral .series_bnr li.s7 a {
+    top: 102px
+}
+.menu_lateral .series_bnr li.s6 a {
+    top: 153px
+}
+
+.menu_lateral .series_bnr li.s5 a {
+    top: 207px
+}
+
+.menu_lateral .series_bnr li.s4 a {
+    top: 259px
+}
+
+.menu_lateral .series_bnr li.s3 a {
+    top: 311px
+}
+
+.menu_lateral .series_bnr li.s2 a {
+    top: 363px
+}
+
+.menu_lateral .series_bnr li.s1 a {
+    top: 415px
+}
+
+.menu_lateral .series_bnr li.current a {
+    cursor: default;
+}
+
+.copy p{
+    margin-left: 20px;
+    padding-bottom: 45px;
+    color: #FFF;
+    text-align: center;
+    font-size: 10px;
+    line-height: 1.4;
+}
+
+#mainContents {
+    margin-left: 320px;
+    position: relative;
+    border-left: 1px solid #393939;
+    box-sizing: border-box;
+}
+.top_main p  {
+    margin: 0px;
+}
+.top_main {
+    min-height: 1240px
+}
+
+#mainContents h2 {
+    position: absolute;
+    top: 45px;
+    left: 20px;
+}
+
+
+
+
+
+
+
+
