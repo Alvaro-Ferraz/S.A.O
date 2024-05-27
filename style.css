@@ -13,7 +13,7 @@ body {
 }
 
 #tudo {
-    background: url(imagens/animation_lat.gif) fixed repeat-y 55px -10px, url(imagens/bg_line.png) fixed repeat-y 55px -10px;
+    background: url(animation_lat.gif) fixed repeat-y 55px -10px, url(bg_line.png) fixed repeat-y 55px -10px;
 }
 
 #tudo {
@@ -104,7 +104,7 @@ nav ul {
 }
 
 .menu_lateral .series .s8 a {
-    background: url(imagens/alicization.png);
+    background: url(alicization.png);
 }
 
 .menu_lateral .series .s7 a {
@@ -112,7 +112,7 @@ nav ul {
 }
 
 .menu_lateral .series .s6 a {
-    background: url(imagens/mothersrosaries.png);
+    background: url(mothersrosaries.png);
 }
 
 .menu_lateral .series .s5 a {
