@@ -15,15 +15,4 @@
     <p>O CSS define o estilo da página, incluindo:</p>
     <p>Configurações de layout e design para o menu lateral e a área principal.</p>
     <p>Estilos para a navegação e a apresentação de imagens.</p>
-    <h2>Instruções de Uso</h2>
-    <p><strong>Clone o Repositório</strong>:</p>
-    <pre><code>git clone https://github.com/seu-usuario/nome-do-repositorio.git</code></pre>
-    <p><strong>Abra o Projeto</strong>: Navegue até a pasta do projeto e abra o arquivo <code>index.html</code> em um navegador de sua escolha.</p>
-    <p><strong>Personalize</strong>: Modifique o arquivo <code>style.css</code> para ajustar o estilo conforme necessário. Atualize as imagens e links conforme suas necessidades.</p>
-    <h2>Contribuição</h2>
-    <p>Se você deseja contribuir para este projeto, por favor siga estas etapas:</p>
-    <p>Faça um fork deste repositório.</p>
-    <p>Crie uma nova branch para sua alteração (<code>git checkout -b minha-alteracao</code>).</p>
-    <p>Faça suas alterações e commit (<code>git commit -am 'Adiciona nova funcionalidade'</code>).</p>
-    <p>Faça push para a branch (<code>git push origin minha-alteracao</code>).</p>
-    <p>Crie um Pull Request.</p>
+    
